@@ -1,0 +1,65 @@
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.logo {
+  width: 22%;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  color: #00EE00;
+}
+
+main {
+  background-color: #00EE00;
+  text-align: center;
+  height: 40px;
+  width: 70%;
+  margin: auto;
+}
+
+#corpotesto {
+  text-align: left;
+}
+
+#bottoni {
+  padding: 9px;
+}
+
+h2 {
+  color: white;
+  text-align: left;
+}
+
+p {
+  color: lightgrey;
+  text-align: left;
+}
+
+.rigagialla {
+        background-color: #EEC900;
+        color: #EEC900;
+        border-radius: 5px;
+        width: 20%;
+}
+
+.rigaverde {
+        background-color: #32CD32;
+        color: #32CD32;
+        border-radius: 5px;
+        width: 30%;
+        text-align: left;
+}
+
+.rigarossa {
+  background-color: #CD2626;
+  color: #CD2626;
+  border-radius: 5px;
+  width: 10%;
+}
